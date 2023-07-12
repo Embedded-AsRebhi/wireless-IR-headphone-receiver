@@ -1,0 +1,6 @@
+Record=TopLevelDocument|FileName=Haut.SchDoc
+Record=SheetSymbol|SourceDocument=Haut.SchDoc|Designator=BLOCINT|SchDesignator=BLOCINT|FileName=BLOCINT.SchDoc|SymbolType=Normal|RawFileName=BLOCINT.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Haut.SchDoc|Designator=LM386|SchDesignator=LM386|FileName=LM386.SchDoc|SymbolType=Normal|RawFileName=LM386.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Haut.SchDoc|Designator=loud|SchDesignator=loud|FileName=loud.SchDoc|SymbolType=Normal|RawFileName=loud.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Haut.SchDoc|Designator=M3005|SchDesignator=M3005|FileName=M3005.SchDoc|SymbolType=Normal|RawFileName=M3005.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Haut.SchDoc|Designator=PLL|SchDesignator=PLL|FileName=PLL.SchDoc|SymbolType=Normal|RawFileName=PLL.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
